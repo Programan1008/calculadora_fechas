@@ -1,0 +1,26 @@
+plugins = []
+headers = []
+redirects = []
+
+[functions]
+
+[functions."*"]
+
+[build]
+publish = "C:\\Documentos_2025\\proyecto_SAC_2025\\App_calculos"
+publishOrigin = "default"
+base = "C:\\Documentos_2025\\proyecto_SAC_2025\\App_calculos"
+
+[build.environment]
+
+[build.processing]
+
+[build.processing.css]
+
+[build.processing.html]
+
+[build.processing.images]
+
+[build.processing.js]
+
+[build.services]
